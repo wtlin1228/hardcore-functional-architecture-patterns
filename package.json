@@ -1,0 +1,24 @@
+{
+  "name": "functional-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "notes",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Wei-Tang Lin <wtlin1228@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "4.0.0-rc.12",
+    "immutable-ext": "1.1.5",
+    "lodash": "4.17.20"
+  },
+  "devDependencies": {
+    "jest": "26.6.3"
+  }
+}
